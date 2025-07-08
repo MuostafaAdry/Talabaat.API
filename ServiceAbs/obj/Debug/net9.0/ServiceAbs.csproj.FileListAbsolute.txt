@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\.NetTasks\ReviewRoute\ServiceAbs\bin\Debug\net9.0\ServiceAbs.deps.json
+C:\Users\user\Desktop\.NetTasks\ReviewRoute\ServiceAbs\bin\Debug\net9.0\ServiceAbs.dll
+C:\Users\user\Desktop\.NetTasks\ReviewRoute\ServiceAbs\bin\Debug\net9.0\ServiceAbs.pdb
+C:\Users\user\Desktop\.NetTasks\ReviewRoute\ServiceAbs\bin\Debug\net9.0\Shared.dll
+C:\Users\user\Desktop\.NetTasks\ReviewRoute\ServiceAbs\bin\Debug\net9.0\Shared.pdb
+C:\Users\user\Desktop\.NetTasks\ReviewRoute\ServiceAbs\obj\Debug\net9.0\ServiceAbs.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\.NetTasks\ReviewRoute\ServiceAbs\obj\Debug\net9.0\ServiceAbs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\.NetTasks\ReviewRoute\ServiceAbs\obj\Debug\net9.0\ServiceAbs.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\.NetTasks\ReviewRoute\ServiceAbs\obj\Debug\net9.0\ServiceAbs.AssemblyInfo.cs
+C:\Users\user\Desktop\.NetTasks\ReviewRoute\ServiceAbs\obj\Debug\net9.0\ServiceAbs.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\.NetTasks\ReviewRoute\ServiceAbs\obj\Debug\net9.0\ServiceAbs.sourcelink.json
+C:\Users\user\Desktop\.NetTasks\ReviewRoute\ServiceAbs\obj\Debug\net9.0\ServiceAbs.csproj.Up2Date
+C:\Users\user\Desktop\.NetTasks\ReviewRoute\ServiceAbs\obj\Debug\net9.0\ServiceAbs.dll
+C:\Users\user\Desktop\.NetTasks\ReviewRoute\ServiceAbs\obj\Debug\net9.0\refint\ServiceAbs.dll
+C:\Users\user\Desktop\.NetTasks\ReviewRoute\ServiceAbs\obj\Debug\net9.0\ServiceAbs.pdb
+C:\Users\user\Desktop\.NetTasks\ReviewRoute\ServiceAbs\obj\Debug\net9.0\ref\ServiceAbs.dll
